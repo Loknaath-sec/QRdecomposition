@@ -62,5 +62,5 @@ QR_Decomposition(a)
 ![1](https://github.com/Loknaath-sec/QRdecomposition/assets/145742558/16b485a2-9e4a-4651-b5ee-f83be333d899)
 
 
-## Result
+## Result:
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
